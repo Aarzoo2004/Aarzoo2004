@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg?v=2">
-  <img src="assets/card-light.svg?v=2" alt="Aarzoo Asar, Software Developer at Neura Studios in Mumbai. B.E. Computer Engineering. Builds AI agents, API connectors and automation. Languages: Python, JavaScript, TypeScript, SQL." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg?v=3">
+  <img src="assets/card-light.svg?v=3" alt="Aarzoo Asar, Software Developer at Neura Studios in Mumbai. B.E. Computer Engineering. Builds AI agents, API connectors and automation. Languages: Python, JavaScript, TypeScript, SQL." width="100%">
 </picture>
 
 ## 🛠️ Technologies & Tools
