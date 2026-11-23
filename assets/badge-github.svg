@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181 28" width="181" height="28" role="img" aria-label="GitHub: Repositories">
+<title>GitHub: Repositories</title>
+<clipPath id="c"><rect width="181" height="28" rx="6"/></clipPath>
+<g clip-path="url(#c)">
+<rect width="68" height="28" fill="#EDF0E6"/>
+<rect x="68" width="113" height="28" fill="#E7B0B6"/>
+</g>
+<rect x="0.5" y="0.5" width="180" height="27" rx="5.5" fill="none" stroke="#D9D2C2" stroke-width="1"/>
+<g font-family="'DM Sans', 'Segoe UI', Verdana, Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="middle">
+<text x="34.0" y="18.5" fill="#4F6149">GitHub</text>
+<text x="124.5" y="18.5" fill="#2F4A2B">Repositories</text>
+</g>
+</svg>
