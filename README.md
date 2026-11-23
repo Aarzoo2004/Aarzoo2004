@@ -6,8 +6,8 @@
 ## 🛠️ Technologies & Tools
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-dark.svg">
-  <img src="assets/tech-light.svg" alt="Technologies and tools: Python, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, React, Astro, Node.js, Express, FastAPI, n8n, PostgreSQL, MongoDB, MySQL, Git, Docker, Figma, Canva" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech2-dark.svg">
+  <img src="assets/tech2-light.svg" alt="Technologies and tools: Python, JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS, React, Astro, Node.js, Express, FastAPI, n8n, PostgreSQL, MongoDB, MySQL, Git, Docker" width="100%">
 </picture>
 
 ## <img src="assets/icon-linkedin.png" height="26" alt=""> Find Me
